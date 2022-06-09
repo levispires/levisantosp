@@ -1,5 +1,8 @@
 # Hi there 👋
-- Não é a linguagem de programação que define o programador, mas sim, a sua lógica.
+- Content Creator
+- [Meow's Owner (Discord Bot)](https://discord.com/oauth2/authorize?client_id=789196560415064085&scope=bot&permissions=278099520576)
+- Brazilian (Paraense)
+- Actually, I'm Discord bots developer
 <div>
   <a href="https://github.com/Levi0100">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levi0100&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
