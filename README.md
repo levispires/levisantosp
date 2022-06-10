@@ -1,4 +1,4 @@
-# Hi there 👋
+# What's up 👋
 - Content Creator
 - [Meow's Owner (Discord Bot)](https://discord.com/oauth2/authorize?client_id=789196560415064085&scope=bot&permissions=278099520576)
 - Brazilian (Paraense)
