@@ -5,8 +5,8 @@
 - Actually, I'm Discord bots developer
 <div>
   <a href="https://github.com/Levi0100">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levi0100&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi0100&layout=compact&langs_count=16&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Levi0100&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi0100&layout=compact&langs_count=16&theme=default"/>
 </div>
   
 <div style="display: inline_block"><br>
