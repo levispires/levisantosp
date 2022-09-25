@@ -11,6 +11,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="right" alt="avatar" src="https://cdn.discordapp.com/avatars/441932495693414410/d96c4ebb65e64f68e9df2bc6d9564802.png?size=128">
 </div>
   
