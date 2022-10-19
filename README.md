@@ -1,6 +1,6 @@
 # What's up 👋
 - Content Creator
-- [Maneki Neko's Creator (Discord Bot)](https://discord.com/oauth2/authorize?client_id=789196560415064085&scope=bot&permissions=278099520576)
+- Developing a PvP Simulator Discord Bot
 - Brazilian (Paraense)
 - Actually, I'm Discord bots developer
 <div>
