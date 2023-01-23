@@ -1,6 +1,5 @@
 # What's up 👋
 - Content Creator
-- Developing a PvP Simulator Discord Bot
 - Brazilian (Paraense)
 - Actually, I'm Discord bots developer
 <div>
