@@ -1,5 +1,4 @@
 # What's up 👋
-- Content Creator
 - Brazilian (Paraense)
 - Actually, I'm Discord bots developer
 <div>
