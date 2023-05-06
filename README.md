@@ -3,7 +3,7 @@
 <p align="400">
     <br>
   <a href="https://discord.com/users/441932495693414410" target="_blank">
-    <img width="45%" src="https://lanyard.cnrad.dev/api/441932495693414410?bg=151515&borderRadius=5px" alt="Discord Status"/>
+    <img height="300" src="https://lanyard.cnrad.dev/api/441932495693414410?bg=151515&borderRadius=5px" alt="Discord Status"/>
     </a>
 <div>
   <a href="https://github.com/levisantosp">
