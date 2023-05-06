@@ -1,6 +1,6 @@
 # What's up 👋
-
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ba60ff&lines=My+Profile.)](https://git.io/typing-svg)
+<p align="400">
     <br>
   <a href="https://discord.com/users/441932495693414410" target="_blank">
     <img width="45%" src="https://lanyard.cnrad.dev/api/441932495693414410?bg=151515&borderRadius=5px" alt="Discord Status"/>
